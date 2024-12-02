@@ -129,7 +129,7 @@ I am eager to establish myself in a data-related role where I can leverage my ex
 </div>
 
 ### Excel Modelling
-- **The wealth of nations**: [Excel Algorithm Sorting]([link-to-project](https://github.com/deepa2106/Excel_Sort))
+- **The wealth of nations**: [Excel Algorithm Sorting](https://github.com/deepa2106/Excel_Sort)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the functions and techniques used in the project.
 
