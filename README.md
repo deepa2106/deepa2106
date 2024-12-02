@@ -52,6 +52,7 @@ I am eager to establish myself in a data-related role where I can leverage my ex
     </summary>
   </ul>
 </div>
+
 **Data Visualisation and analysis** 
 <p align="left">
    <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="36" height="36" alt="PowerBI" /></a>&nbsp;&nbsp;
@@ -129,28 +130,27 @@ I am eager to establish myself in a data-related role where I can leverage my ex
 </div>
 
 ### Excel
-- **[VBA Algorithm Sorting](https://github.com/deepa2106/Excel_Sort)**
-  - **Description**: A VBA project, which included generating random numbers follwed by using different sorting algorithms to reorder them. The time for each type of sort is recorded to enable comparison at the end.
-- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**
-  - **Description**: An Excel sheet comparing data of countries.
+- **[VBA Algorithm Sorting](https://github.com/deepa2106/Excel_Sort)**</br>
+  A VBA project where randomly generated numbers are sorted using different algorithms. The time for each type of sort is recorded to enable comparison at the end.
+- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**</br>
+  An Excel sheet comparing the data of countries.
 
 ### Tableau Public
-- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**
-  - **Description**: A dashboard created using an Excell sheet in Tableau, to compare data for the top 20 GDP countries.
-  - **For further charts and dashboards, visit:*** <a href="https://public.tableau.com/app/profile/deepa.patel21/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>
+- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**</br>
+  A dashboard created using an Excel sheet in Tableau, to compare data for the top 20 GDP countries.</br>
+  *For further charts and dashboards, visit:* <a href="https://public.tableau.com/app/profile/deepa.patel21/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="80" height="15" alt="Tableau Logo" /></a>
 
 ### MySQL
-- **[Store Inventory](https://github.com/deepa2106/Store_inventory)**
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
-
+- **[Store Inventory](https://github.com/deepa2106/Store_inventory)**</br>
+  A MySQL database containing customer shipping records and inventory stock.
+  
 ### PowerBI
-- **[Financial Report](https://github.com/deepa2106/Financial_report)**
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **[Cost of Living](https://github.com/deepa2106/Cost_of_living)**</br>
+  A dashboard created using an Excel sheet in PowerBI that compares the cost of living across different states in USA.
 
 ### Python and Pandas
-- Coming soon...
+- **[Rupee exchange rate](https://github.com/deepa2106/Currency_exchange)**</br>
+  A storytelling data visualisation of exchange rates during 1999 - 2022
 
 ### R
 - Coming soon...
