@@ -76,7 +76,7 @@ I am eager to establish myself in a data-related role where I can leverage my ex
 <p align="left">
    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>&nbsp;&nbsp;
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/></a>&nbsp;&nbsp;
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/></a>nbsp;&nbsp;
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/></a>&nbsp;&nbsp;
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/></a>&nbsp;&nbsp;
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"/></a>&nbsp;&nbsp; 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/></a>&nbsp;&nbsp;
@@ -128,15 +128,10 @@ I am eager to establish myself in a data-related role where I can leverage my ex
   </ul>
 </div>
 
-### R
+### Excel Modelling
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
-### PowerBI
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+  - **Technologies Used**: List the functions and techniques used in the project.
 
 ### <a href="https://public.tableau.com/app/profile/deepa.patel21/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>
 - **Project Name**: [Project Title](link-to-project)
@@ -153,20 +148,20 @@ I am eager to establish myself in a data-related role where I can leverage my ex
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and databases used in the project.
 
+### PowerBI
+- **Project Name**: [Project Title](link-to-project)
+  - **Description**: Brief description of what the project does and its key features.
+  - **Technologies Used**: List the features and data sources used in the project.
+
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
 
-### DP900
+### R
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
-
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+  - **Technologies Used**: List the libraries/packages used in the project.
 
 
 <div id="toc">
