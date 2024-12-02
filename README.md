@@ -128,40 +128,32 @@ I am eager to establish myself in a data-related role where I can leverage my ex
   </ul>
 </div>
 
-### Excel Modelling
-- **The wealth of nations**: [Excel Algorithm Sorting](https://github.com/deepa2106/Excel_Sort)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+### Excel
+- **[VBA Algorithm Sorting](https://github.com/deepa2106/Excel_Sort)**
+  - **Description**: A VBA project, which included generating random numbers follwed by using different sorting algorithms to reorder them. The time for each type of sort is recorded to enable comparison at the end.
+- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**
+  - **Description**: An Excel sheet comparing data of countries.
 
-### <a href="https://public.tableau.com/app/profile/deepa.patel21/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
-
-### Access
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and tables used in the project.
+### Tableau Public
+- **[Wealth of Nations](https://github.com/deepa2106/Wealth_of_nations)**
+  - **Description**: A dashboard created using an Excell sheet in Tableau, to compare data for the top 20 GDP countries.
+  - **For further charts and dashboards, visit:*** <a href="https://public.tableau.com/app/profile/deepa.patel21/vizzes" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>
 
 ### MySQL
-- **Project Name**: [Project Title](link-to-project)
+- **[Store Inventory](https://github.com/deepa2106/Store_inventory)**
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and databases used in the project.
 
 ### PowerBI
-- **Project Name**: [Project Title](link-to-project)
+- **[Financial Report](https://github.com/deepa2106/Financial_report)**
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
 ### Python and Pandas
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+- Coming soon...
 
 ### R
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
+- Coming soon...
 
 
 <div id="toc">
